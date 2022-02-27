@@ -1,8 +1,8 @@
-Package: com.shouganai.actionsounds
-Name: ActionSounds
-Version: 0.0.4
+Package: com.shouganai.actionsounds.noprefs
+Name: ActionSounds (No Prefs)
+Version: 0.0.5
 Architecture: iphoneos-arm
-Description: Play sounds for coreauthui. 
+Description: "Play sounds for coreauthui. fuck prefs. add your quirky noises to /Library/Tweak Support/ActionSounds/{fail.caf|true.caf}"
 Maintainer: Superuser1958
 Author: Superuser1958
 Section: Tweaks

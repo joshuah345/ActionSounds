@@ -14,7 +14,7 @@
 				AudioServicesPlaySystemSound(BioPassSound);
 				}
 		else { 
-				
+				reply(success, error);
 				BioFailSound = 0;
 				AudioServicesDisposeSystemSoundID(BioFailSound);
 				AudioServicesCreateSystemSoundID((__bridge CFURLRef)[NSURL fileURLWithPath:[NSString stringWithFormat:@"/Library/Tweak Support/ActionSounds/fail.caf"]],&BioFailSound);
