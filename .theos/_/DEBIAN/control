@@ -1,0 +1,10 @@
+Package: com.shouganai.actionsounds
+Name: ActionSounds
+Architecture: iphoneos-arm
+Description: Play sounds for coreauthui. 
+Maintainer: Superuser1958
+Author: Superuser1958
+Section: Tweaks
+Depends: preferenceloader, mobilesubstrate, firmware (>=12.0), ws.hbang.common (>=1.13), com.creaturecoding.libcspreferences (>=1.2.0)
+Version: 0.0.4
+Installed-Size: 336
